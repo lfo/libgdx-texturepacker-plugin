@@ -1,4 +1,4 @@
-# gdx-texturepacker-plugn
+# gdx-texturepacker-plugin
 
 Usage : 
 
