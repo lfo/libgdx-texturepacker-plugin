@@ -3,5 +3,5 @@
 Usage : 
 
 ```
-mvn org.laurentforet.maven:gdx-texturepacker-plugin:texture-pack
+mvn com.github.lfo.libgdx.maven:libgdx-texturepacker-plugin:texture-pack
 ```
